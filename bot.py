@@ -17,10 +17,9 @@ from openai import OpenAI
 # =========================
 # 🔧 تنظیمات
 # =========================
-TELEGRAM_BOT_TOKEN = "8461753964:AAHFFbc59KRDX_CE7PgGi1R6qTlF4wObGD0"
-GAPGPT_API_KEY = "sk-BMEKa3k9cgTIRMAGxwjTMCtBZyqPOPi2fWbpRMg8eXTu7R0I"
 
-ADMIN_IDS = [7242791584]
+
+
 DAILY_IMAGE_LIMIT = 3
 
 
